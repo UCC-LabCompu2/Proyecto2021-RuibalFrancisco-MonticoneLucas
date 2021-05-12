@@ -1,4 +1,8 @@
-# proyecto2021
+# Proyecto Jump King CBA.
+- [ ] Autores: Ruibal Francisco y Monticone Lucas.
+- [ ] Link: (https://ucc-labcompu2.github.io/Proyecto2021-RuibalFrancisco-MonticoneLucas/Index.html)
+- [ ] Utilizamos: HTML, CSS, JavaScript.
+- [ ] Nuestra página contendrá un videojuego y contin un registro de tiempo jugado (para competir)
 Estructura de Proyecto Lab de Compu II - 2021
 
 ### Requisitos del Primer Parcial
