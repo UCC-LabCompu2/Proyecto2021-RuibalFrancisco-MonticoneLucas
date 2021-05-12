@@ -5,7 +5,7 @@
 - [ ] Además, principlalmente contendrá un videojuego y un cronómetro para registrar el tiempo jugado (y así competir).
 - [ ] Utilizamos: HTML, CSS, y JavaScript.
 
-#Estructura de Proyecto Lab de Compu II - 2021
+## Estructura de Proyecto Lab de Compu II - 2021
 ### Requisitos del Primer Parcial
 - [ ] El proyecto debe estar subido al repositorio adecuado "Proyecto2021-ApellidoAlumno1-ApellidoAlumno2"
 - [ ] La página principal debe llamarse index
